@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Steering.unity
+    guid: de387feb2a36142bc804ee677d14b2ae
   m_configObjects: {}
